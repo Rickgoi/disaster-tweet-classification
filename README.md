@@ -1,4 +1,3 @@
-```markdown
 # Detección de Tweets de Desastres
 
 ## 1. Descripción del Problema de Negocio
