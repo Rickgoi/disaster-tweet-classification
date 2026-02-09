@@ -56,4 +56,4 @@ Tras la experimentación, se evaluaron dos enfoques principales:
 Este sistema reduce el tiempo de monitoreo manual en redes sociales, permitiendo a las organizaciones humanitarias y servicios de emergencia priorizar recursos basados en alertas con un **86% de confiabilidad**.
 
 ---
-📫 **Contacto:** [Tu LinkedIn] | [Tu Portafolio]
+📫 **Contacto:** (https://www.linkedin.com/in/ricardo-goitia-659a5895/)
